@@ -33,7 +33,7 @@ let questions = [
     {
         question: 'What is the definition of a refugee?',
         choice1: 'A person with a well-founded fear of persecution for reasons of race, religion, nationality, political opinion or membership in a particular social group.',
-        choice2: 'A refugee is someone who has been forced to flee his or her country because of persecution, war or violence.',
+        choice2: 'Someone who has been forced to flee his or her country because of persecution, war or violence.',
         choice3: 'A person who is granted legal residency in the United States',
         choice4: 'All of the Above',
         answer: 4,
