@@ -23,7 +23,7 @@ let questions = [
         answer: 1,
     },
     {
-        question: 'Of the following countries, which has the highest percentage of refugees in Colorado?',
+        question: 'Of the following countries, which has the highest percentage of recent refugees in Colorado?',
         choice1: 'Democratic Republic of Congo',
         choice2: 'Afghanistan',
         choice3: 'Mexico',
